@@ -12,7 +12,8 @@ Consigli del giorno:
 
 ### Logica applicazione
 
-- [ ] Creare un ciclo che stampi i numeri da 1 a 100
-- [ ] Creare condizione: se multiplo di 3 stampare "Fizz"
-- [ ] Creare condizione: se multiplo di 5 stampare "Buzz"
-- [ ] Creare condizione: se multiplo di 3 e 5 stampare "FizzBuzz"
+- [x] Creare un ciclo che stampi i numeri da 1 a 100
+- [x] Creare condizione: se multiplo di 3 e 5 stampare "FizzBuzz"
+- [x] Creare condizione: se multiplo di 3 stampare e non multiplo di 5"Fizz"
+- [x] Creare condizione: se multiplo di 5 stampare e non multiplo di 3 "Buzz"
+
